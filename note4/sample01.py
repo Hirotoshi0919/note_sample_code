@@ -1,4 +1,4 @@
-# sample01.py
+# sample01_a.py
 number = 1
 
 if number == 1:

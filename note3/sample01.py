@@ -1,4 +1,4 @@
-# sample01.py
+# sample01_a.py
 number = input("数字を入力してください\n")
 # 文字型のnumberを数値型に変換する
 number = int(number)
